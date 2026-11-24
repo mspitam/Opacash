@@ -1,0 +1,9 @@
+{
+  "name": "OpaCash",
+  "short_name": "OpaCash",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#087a48",
+  "icons": []
+}
